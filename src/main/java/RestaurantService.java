@@ -14,7 +14,7 @@ public class RestaurantService {
             }
 
         }
-        throw new restaurantNotFoundException(restaurantName) ;
+       throw new restaurantNotFoundException(restaurantName) ;
 
     }
 
